@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\LAB4.Practice.csproj": {}
+    "C:\\Users\\mirhuseynma\\Desktop\\LAB\\LAB4.Practice\\LAB4.Practice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\LAB4.Practice.csproj": {
+    "C:\\Users\\mirhuseynma\\Desktop\\LAB\\LAB4.Practice\\LAB4.Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\LAB4.Practice.csproj",
+        "projectUniqueName": "C:\\Users\\mirhuseynma\\Desktop\\LAB\\LAB4.Practice\\LAB4.Practice.csproj",
         "projectName": "LAB4.Practice",
-        "projectPath": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\LAB4.Practice.csproj",
+        "projectPath": "C:\\Users\\mirhuseynma\\Desktop\\LAB\\LAB4.Practice\\LAB4.Practice.csproj",
         "packagesPath": "C:\\Users\\mirhuseynma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\obj\\",
+        "outputPath": "C:\\Users\\mirhuseynma\\Desktop\\LAB\\LAB4.Practice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

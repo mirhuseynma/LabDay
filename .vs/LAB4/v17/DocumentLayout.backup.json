@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|c:\\users\\mirhuseynma\\desktop\\lab4\\lab4.practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|solutionrelative:lab4.practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|c:\\users\\mirhuseynma\\desktop\\lab4\\lab4.practice\\techer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|solutionrelative:lab4.practice\\techer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|c:\\users\\mirhuseynma\\desktop\\lab4\\lab4.practice\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|solutionrelative:lab4.practice\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|c:\\users\\mirhuseynma\\desktop\\lab4\\lab4.practice\\techer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|solutionrelative:lab4.practice\\techer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|c:\\users\\mirhuseynma\\desktop\\lab4\\lab4.practice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|solutionrelative:lab4.practice\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|c:\\users\\mirhuseynma\\desktop\\lab4\\lab4.practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070032CF-D001-4497-9631-B6B9F9F846A6}|LAB4.Practice\\LAB4.Practice.csproj|solutionrelative:lab4.practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Techer.cs",
               "DocumentMoniker": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\Techer.cs",
               "RelativeDocumentMoniker": "LAB4.Practice\\Techer.cs",
               "ToolTip": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\Techer.cs",
               "RelativeToolTip": "LAB4.Practice\\Techer.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwEEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T12:56:14.316Z",
               "EditorCaption": ""
@@ -53,33 +53,33 @@
               "RelativeDocumentMoniker": "LAB4.Practice\\Student.cs",
               "ToolTip": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\Student.cs",
               "RelativeToolTip": "LAB4.Practice\\Student.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAmwDoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwD0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T10:30:54.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\Person.cs",
               "RelativeDocumentMoniker": "LAB4.Practice\\Person.cs",
               "ToolTip": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\Person.cs",
               "RelativeToolTip": "LAB4.Practice\\Person.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAD4vz8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAD4vzQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T10:07:24.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\Program.cs",
               "RelativeDocumentMoniker": "LAB4.Practice\\Program.cs",
-              "ToolTip": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\Program.cs*",
-              "RelativeToolTip": "LAB4.Practice\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mirhuseynma\\Desktop\\LAB4\\LAB4.Practice\\Program.cs",
+              "RelativeToolTip": "LAB4.Practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T10:06:51.61Z",
               "EditorCaption": ""
