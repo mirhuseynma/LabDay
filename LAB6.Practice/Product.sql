@@ -65,7 +65,7 @@ create table ProductFAQs
 	QuestionsID int foreign key references Questions(ID)
 )
 
-create table Adresses
+create table [Adresses]
 (
 	ID int primary key identity,
 	City nvarchar(50) not null,
@@ -82,7 +82,7 @@ create table Customers
 	SurName nvarchar(50) not null,
 	Email nvarchar(50) not null,
 	Mobile nvarchar(50) not null,
-	AdressesID int foreign key references Adresses(ID),
+	AdressesID int foreign key references [Adresses](ID),
 	BasketID int foreign key references Basket(ID)
 )
 
@@ -147,3 +147,4 @@ create table ProductsBaskets
 	BasketsID int foreign key references Basket(ID)
 )
 
+select * from Brands
