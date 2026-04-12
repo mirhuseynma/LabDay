@@ -243,7 +243,7 @@ function SumArr(cusArr){
 SumArr(cusArr);
 
 // task 22
-var kusArr = [1,2,3,4,5];
+var kusArr = [10,2,8,4,20];
 var maxNum = kusArr[0];
 
 function MaxArrElement(kusArr){
@@ -251,6 +251,205 @@ function MaxArrElement(kusArr){
         if(kusArr[i]>maxNum) maxNum = kusArr[i];
     }
     console.log(maxNum);
-}
+};
 
 MaxArrElement(kusArr);
+
+//task 23]
+
+var minArr = [10,2,8,4,20];
+var minNum = minArr[0];
+
+function MinArrElement(minArr){
+    for(i = 0; i<minArr.length; i++){
+        if(minArr[i]<minNum) minNum = minArr[i];
+    }
+    console.log(minNum);
+}
+MinArrElement(minArr);
+
+//task 24
+
+var arr1 = [1,2,3,4,5];
+
+function ReverseArr(arr1){
+    var reversedArr = [];
+    for(i = arr1.length-1; i>=0; i--){
+        reversedArr.push(arr1[i]);
+    }
+    console.log(reversedArr);
+}
+ReverseArr(arr1);
+
+//task 25
+
+var arr2 = [1,2,3,4,5];
+var arrPair = [];
+
+function PairArr(arr2){
+    for(i = 0; i<arr2.length; i++){
+        if(arr2[i]%2==0) arrPair.push(arr2[i]);
+    }
+    console.log(arrPair);
+}
+PairArr(arr2);
+
+// task 26
+var arr3 = [1,2,3,4,5];
+var element = 3;
+var countElement = 0;
+function CheckElement(arr3,element){
+    for(i = 0; i<arr3.length; i++){
+        if(arr3[i]==element) countElement++;
+    }
+    if(countElement>0) console.log("Element var");
+    else console.log("Element yoxdur");
+}
+CheckElement(arr3,element);
+
+// task 27
+var arr4 = [1,2,5];
+var sumArr4 = 0;
+var edediOrta = 0;
+
+function EdediOrtaArr(arr4){
+    for(i = 0; i<arr4.length; i++){
+        sumArr4+=arr4[i];
+        edediOrta = sumArr4/arr4.length;
+    }   
+    console.log(edediOrta);
+}
+EdediOrtaArr(arr4);
+
+// task 28
+
+var arr5 = [1,2,3,4,5];
+var arr6 = [6,7,8,9,10];
+var mergedArr = [];
+
+function MergeArr(arr5,arr6){
+    for(i = 0; i<arr5.length; i++){
+        mergedArr.push(arr5[i]);
+    }
+    for(i = 0; i<arr6.length; i++){
+        mergedArr.push(arr6[i]);
+    }
+    console.log(mergedArr);
+}
+MergeArr(arr5,arr6);
+
+// task 29
+
+var arr7 = [1,2,3,4,5,1,2];
+var uniqueArr = [];
+
+function UniqueArr(arr7){
+    for(i = 0; i<arr7.length; i++){
+        if(uniqueArr.indexOf(arr7[i])==-1) uniqueArr.push(arr7[i]);
+    }
+    console.log(uniqueArr);
+}
+UniqueArr(arr7);
+
+// task 30
+var arr8 = [1,-2,3,-4,5];
+
+function NegativeDel(arr8){
+    var positiveArr = [];
+    for(i = 0; i<arr8.length; i++){
+        if(arr8[i]>0) positiveArr.push(arr8[i]);
+    }   
+    console.log(positiveArr);
+}
+NegativeDel(arr8);
+
+// task 31
+
+var context = "Mirhuseyn";
+var characterCount = 0;
+
+function CountCharacter(context){
+    for(i = 0; i<context.length; i++){
+        characterCount++;
+    }   
+    console.log(characterCount);
+}
+CountCharacter(context);
+
+// task 32
+
+function ReverseString(context){
+    var reversedString = "";
+    for(i = context.length-1; i>=0; i--){
+        reversedString+=context[i];
+    }
+    reversedString = reversedString.toLowerCase();
+    console.log(reversedString);
+}
+ReverseString("Mirhuseyn");
+
+// task 33
+
+function Palindrome(context){
+    var reversString = "";
+    for(i = context.length-1; i>=0; i--){
+        reversString+=context[i];
+    }   
+    if(context.toLowerCase()==reversString.toLowerCase()) console.log("Palindrome");
+    else console.log("Palindrome deyil");
+
+}
+
+Palindrome("Mirhuseyn");
+
+
+// task 34
+
+var saitArr = ["a","e","i","o","u"];
+var saitCount = 0;
+function CountSait(context){
+    for(i = 0; i<context.length; i++){
+        if(saitArr.indexOf(context[i].toLowerCase())!=-1) saitCount++;
+    }
+    console.log(saitCount);
+}
+CountSait("Mirhuseyn");
+
+// task 35
+
+var context2 = "Mirhuseyn salam necesen lksndknsknklfn";
+function BiggestWord(context2){
+    var wordArr = context2.split(" ");
+    var maxWord = wordArr[0];
+    for(i = 0; i<wordArr.length; i++){
+        if(wordArr[i].length>maxWord.length) maxWord = wordArr[i];
+    }
+    console.log(maxWord);
+}
+BiggestWord(context2);
+
+// task 36
+
+var context3 = "Mirhuseyn salam necesen lksndknsknklfn";
+function UpperStart(context3){
+    var wordArr = context3.split(" ");
+    for(i = 0; i<wordArr.length; i++){
+        wordArr[i] = wordArr[i].charAt(0).toUpperCase() + wordArr[i].slice(1);
+    }
+    console.log(wordArr.join(" "));
+}
+UpperStart(context3);
+
+// task 37
+var kontekst = "Banana";
+var countLetter = 0;
+
+function CountLetter(kontekst,letter){
+    for(i = 0; i<kontekst.length; i++){
+        if(kontekst[i].toLowerCase()==letter.toLowerCase()) countLetter++;
+    }
+    console.log(countLetter);
+}
+CountLetter(kontekst, "b");
+
+// task 38
