@@ -453,3 +453,76 @@ function CountLetter(kontekst,letter){
 CountLetter(kontekst, "b");
 
 // task 38
+
+
+
+class CustomMatch{
+    result;
+    constructor(number){
+        this.result = number;
+    };
+
+    plusOne(num1){
+        this.result += num1;
+        return this;
+    };
+
+    minusOne(num2){
+        this.result -= num2;
+        return this;
+    };
+
+    multiplyOne(num3){
+        this.result *= num3;
+        return this;
+    };
+
+    divideOne(num4){
+        if(num4 != 0) {
+            this.result /= num4;
+            return this;
+        } else {
+            return "0-a bolmek olmaz";
+        }
+    };
+}
+
+var result = new CustomMatch(50).plusOne(6).minusOne(30).multiplyOne(3).divideOne(2);
+
+console.log(result.result);
+
+
+var arrAy = [6,89,33,4,5];
+
+function SortArr(arrAy){
+    for(i = 0; i<arrAy.length; i++){
+        for(m = 0; m<arrAy.length-1; m++){
+            if(arrAy[m+1]>arrAy[m]){
+                var temp = arrAy[m+1];
+                arrAy[m+1] = arrAy[m];
+                arrAy[m] = temp;
+            }
+        }
+    }
+    console.log(arrAy);
+}
+SortArr(arrAy);
+
+// var result = arrAy.toSorted((a, b) => b-a);
+
+// console.log(result);
+
+
+
+
+
+function StringToArr(str){
+    var arrStr = str.split(" ");
+    var resultArr = [];
+    for(i = 0; i<arrStr.length; i++){
+        resultArr.push(arrStr[i].length);
+    }
+    console.log(resultArr);
+}
+
+StringToArr("Salam necesen");
