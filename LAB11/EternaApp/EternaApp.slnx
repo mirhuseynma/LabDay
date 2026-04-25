@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EternaApp.Core/EternaApp.Core.csproj" />
+  <Project Path="EternaApp.DAL/EternaApp.DAL.csproj" />
+  <Project Path="EternaApp.UI/EternaApp.UI.csproj" />
+  <Project Path="EterneApp.BL/EterneApp.BL.csproj" />
+</Solution>

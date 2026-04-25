@@ -1,0 +1,17 @@
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\bin\Debug\net8.0\EternaApp.DAL.deps.json
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\bin\Debug\net8.0\EternaApp.DAL.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\bin\Debug\net8.0\EternaApp.DAL.dll
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\bin\Debug\net8.0\EternaApp.DAL.pdb
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\bin\Debug\net8.0\EternaApp.Core.dll
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\bin\Debug\net8.0\EternaApp.Core.pdb
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\EternaApp.DAL.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\EternaApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\EternaApp.DAL.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\EternaApp.DAL.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\EternaApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\EternaAp.0C268A57.Up2Date
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\EternaApp.DAL.dll
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\refint\EternaApp.DAL.dll
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\EternaApp.DAL.pdb
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\EternaApp.DAL.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.DAL\obj\Debug\net8.0\ref\EternaApp.DAL.dll

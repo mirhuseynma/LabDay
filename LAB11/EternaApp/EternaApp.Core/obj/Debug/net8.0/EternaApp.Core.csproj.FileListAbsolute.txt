@@ -1,0 +1,14 @@
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\bin\Debug\net8.0\EternaApp.Core.deps.json
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\bin\Debug\net8.0\EternaApp.Core.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\bin\Debug\net8.0\EternaApp.Core.dll
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\bin\Debug\net8.0\EternaApp.Core.pdb
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\obj\Debug\net8.0\EternaApp.Core.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\obj\Debug\net8.0\EternaApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\obj\Debug\net8.0\EternaApp.Core.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\obj\Debug\net8.0\EternaApp.Core.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\obj\Debug\net8.0\EternaApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\obj\Debug\net8.0\EternaApp.Core.dll
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\obj\Debug\net8.0\refint\EternaApp.Core.dll
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\obj\Debug\net8.0\EternaApp.Core.pdb
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\obj\Debug\net8.0\EternaApp.Core.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\EternaApp\EternaApp.Core\obj\Debug\net8.0\ref\EternaApp.Core.dll
